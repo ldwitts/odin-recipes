@@ -1,0 +1,1 @@
+This is a basic project to test out and practice the HTML tags and attributes needed to add lists, links, images, etc. to a web page.
